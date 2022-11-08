@@ -1,7 +1,7 @@
 <h1>Hey! I'm Urtzi | Jota | Yxini </h1>
 <hl>
 
-- 📫 How to reach me: <br>
+-  How to reach me: <br>
     Discord: [ Jota ]#1479 <br>
     Twitter: <a href="https://twitter.com/yxinigmp">@YxiniGMP</a> <br>
     Email: urcrmedev@gmail.com <br>
