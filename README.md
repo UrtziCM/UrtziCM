@@ -1,4 +1,4 @@
-###Hey! Im Urtzi or Jota
+Hey! Im Urtzi or Jota
 
 
 - 📕 I’m currently learning at CIFP Ciudad Jardín
