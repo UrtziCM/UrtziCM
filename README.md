@@ -2,7 +2,7 @@
 <hl>
 
 - 📧 How to reach me: <br>
-       &#8195;Discord: [ Jota ]#1479 <br>
+       &#8195;Discord: [ Jota ]#1490 <br>
        &#8195;Twitter: <a href="https://twitter.com/yxinigmp">@YxiniGMP</a> <br>
        &#8195;Email: urcrmedev@gmail.com <br>
 - 🎮 I'm currently working on a top-down 2D stealth-like game. (In Unity)
