@@ -3,7 +3,7 @@
 
 - 📧 How to reach me: <br>
        &#8195;Discord: [ Jota ]#1490 <br>
-       &#8195;Twitter: <a href="https://twitter.com/yxinigmp">@YxiniGMP</a> <br>
+       &#8195;Twitter: <a href="https://twitter.com/yxinigmp">@YxiniGMP</a> | <a href="https://twitter.com/ulyiplo">@ulyiplo</a> <br>
        &#8195;Email: urcrmedev@gmail.com <br>
 - 🎮 I'm currently working on a top-down 2D stealth-like game. (In Unity)
 - 🟦 I sometimes work on gmod addons.
