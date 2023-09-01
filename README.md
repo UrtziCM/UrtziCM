@@ -1,4 +1,4 @@
-<h1>Hey! I'm Urtzi | Jota | Yxini </h1>
+<h1>Hey! I'm Urtzi aka { Jota , Yxini } </h1>
 <hl>
 
 - 📧 How to reach me: <br>
