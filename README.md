@@ -2,8 +2,8 @@
 <hl>
 
 - 📧 How to reach me: <br>
-       &#8195;Discord: [ Jota ]#1490 <br>
-       &#8195;Twitter: <a href="https://twitter.com/yxinigmp">@YxiniGMP</a> | <a href="https://twitter.com/ulyiplo">@ulyiplo</a> <br>
+       &#8195;Discord: yxini <br>
+       &#8195;Twitter: <a href="https://twitter.com/yxinigmp">@YxiniGMP</a><br>
        &#8195;Email: urcrmedev@gmail.com <br>
 - 🎮 Currently working on a a s&box (developer preview) gamemode about blacksmithing.
 - 🟦 I <s>sometimes</s> mostly work on gmod addons.
