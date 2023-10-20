@@ -17,4 +17,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> 
   <img src="https://godotengine.org/assets/press/icon_color.png" title="Godot" alt="Godot" width="40" height="40"/> 
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" title="Blender" alt="Blender" width="40" height="40"/> 
 </div>
