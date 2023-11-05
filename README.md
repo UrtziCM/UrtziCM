@@ -6,7 +6,7 @@
        &#8195;Twitter: <a href="https://twitter.com/yxinigmp">@YxiniGMP</a><br>
        &#8195;Email: urcrmedev@gmail.com <br>
 - 🎮 Currently working on a a s&box (developer preview) gamemode about blacksmithing.
-- 🟦 I <s>sometimes</s> mostly work on gmod addons.
+- 🟦 I sometimes work on gmod addons.
 <h1> :hammer_and_wrench: Languages and Tools :</h1>
 <hl>
 <div>
