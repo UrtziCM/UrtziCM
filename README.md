@@ -7,7 +7,7 @@
        &#8195;Email: urcrmedev@gmail.com <br>
 - 🎮 Currently working on a a s&box (developer preview) gamemode about blacksmithing.
 - 🟦 I sometimes work on gmod addons.
-<h1> :hammer_and_wrench: Languages and Tools :</h1>
+<h1> 🛠 Languages and Tools :</h1>
 <hl>
 <div>
   <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/lua-1.png" title="Lua" **alt="Lua" width="40" height="40"/> 
