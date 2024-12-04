@@ -3,7 +3,7 @@
 
 - 📧 How to reach me: <br>
        &#8195;Discord: yxini <br>
-       &#8195;Bluesky: <a href="yxini.bsky.social">Yxini</a><br>
+       &#8195;Bluesky: <a href="https://yxini.bsky.social">Yxini</a><br>
 - 🎮 Currently making a Wizard & Magic immersive sim.
 - 🟦 Game dev.
 <h1> 🛠 Languages and Tools :</h1>
